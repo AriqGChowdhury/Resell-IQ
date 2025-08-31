@@ -1,0 +1,14 @@
+.inner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 3%;
+}
+
+.recent-item {
+    background: #f9f9f9;
+    padding: 0.75rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

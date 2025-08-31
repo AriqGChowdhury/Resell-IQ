@@ -1,0 +1,36 @@
+.generate {
+    border-radius: 12px;
+    width: 50%;
+    margin-top: 2%;
+    padding: 2%;
+    background-color: white;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.generate h2 {
+    text-align: center;
+}
+
+.outer {
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 8%;
+}
+
+
+
+#genButton {
+    margin-left: 88%;
+}
+
+.showRecents {
+    border: solid 2px black;
+    padding: 2%;
+    border-radius: 12px;
+    margin-left: 2%;
+    margin-top: 1.5%;
+    
+}
