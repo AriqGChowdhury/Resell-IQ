@@ -17,10 +17,6 @@ This project was created using: React, Bootstrap, Django REST Framework, FastAI,
   
   → Maximum bid recommendations calculated excluding shipping and taxes, assuming charger included by default.
 
-- Session-Based To-Do List
-  
-  → Lightweight task manager to help users stay organized while practicing.
-
 - Resell & Bid History Tracking
   
   → Maximum bid recommendations calculated excluding shipping and taxes, assuming charger included by default.
