@@ -50,8 +50,6 @@ npm start
 
 Contact me at ariq922@hotmail.com
 
-## Check out the site
-http://reselliq-frontend.s3-website-us-east-1.amazonaws.com/login
 
 ## License
 
